@@ -1,0 +1,30 @@
+{
+  "canetas-plasticas": [
+    {
+      "id": 1,
+      "nome": "cane azul azul caneta CÓD. 3011",
+      "img": ""
+    },
+
+    {
+      "nome": "CÓD 320",
+      "img": ""
+    }
+  ],
+
+  "chaveiro": [
+    {
+      "id": 100,
+      "nome": "isso",
+      "img": ""
+    },
+
+    {
+      "id": 101,
+      "nome": "isso ai",
+      "img": ""
+    }
+  ],
+
+  "diversos": [{}]
+}
